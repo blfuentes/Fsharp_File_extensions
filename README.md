@@ -1,4 +1,4 @@
-# Fsharp_File_extensions
+# F# File extensions
 Registry keys and FSharp folders for the "missing icons in explorer" bug in VS2017
 
 https://github.com/dotnet/project-system/issues/3351
